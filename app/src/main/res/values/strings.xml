@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SurfBuddy</string>
+    <string name="surfbuddy">SurfBuddy</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueceu_a_senha">Esqueceu a senha?</string>
+    <string name="alunos">Alunos</string>
+    <string name="professores">Professores</string>
+    <string name="aulas">Aulas</string>
+    <string name="calendario">Calendário</string>
+</resources>
